@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheHimesh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python/C
+- 🌱 I’m currently learning Python and C
   
   
 
