@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @TheHimesh
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python and C
+- 🎓 I’m pursuing B.Tech In Civil Engineering 
+- 📸 I'm interested in Photography
+- 💻 Using Github to maintain my portfolio website
+- 🫂 Thanks to my friends to help me build and run my website
   
   
 
